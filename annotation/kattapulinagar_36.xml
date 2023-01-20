@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_36.jpg</filename>
+	<path>D:\chennai\images\kattapulinagar_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>multi axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>607</ymin>
+			<xmax>1240</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	<id>S98</id><id>S98</id><id>S98</id><id>S98</id><id>S98</id><id>S97</id></object>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1082</xmin>
+			<ymin>633</ymin>
+			<xmax>1102</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	<id>S99</id><id>S99</id><id>S99</id><id>S99</id><id>S99</id><id>S98</id></object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_3.jpg</filename>
+	<path>\\10.0.0.2\dataset\cosai_dataset\chennai\images\kattapulinagar_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck_3Axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>760</ymin>
+			<xmax>819</xmax>
+			<ymax>1314</ymax>
+		</bndbox>
+	<id>S77</id><id>S77</id><id>S77</id><id>S77</id><id>S77</id><id>S76</id></object>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1700</xmin>
+			<ymin>683</ymin>
+			<xmax>1733</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	<id>S78</id><id>S78</id><id>S78</id><id>S78</id><id>S78</id><id>S77</id></object>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1293</xmin>
+			<ymin>711</ymin>
+			<xmax>1362</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	<id>S79</id><id>S79</id><id>S79</id><id>S79</id><id>S79</id><id>S78</id></object>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>908</ymin>
+			<xmax>1044</xmax>
+			<ymax>1056</ymax>
+		</bndbox>
+	<id>S80</id><id>S80</id><id>S80</id><id>S80</id><id>S80</id><id>S79</id></object>
+</annotation>

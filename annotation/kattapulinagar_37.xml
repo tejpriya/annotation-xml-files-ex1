@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_37.jpg</filename>
+	<path>D:\chennai\images\kattapulinagar_37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>761</ymin>
+			<xmax>359</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	<id>S100</id><id>S100</id><id>S100</id><id>S100</id><id>S100</id><id>S99</id></object>
+	<object>
+		<name>multi axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>582</ymin>
+			<xmax>1251</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	<id>S101</id><id>S101</id><id>S101</id><id>S101</id><id>S101</id><id>S100</id></object>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1235</ymin>
+			<xmax>246</xmax>
+			<ymax>1520</ymax>
+		</bndbox>
+	<id>S102</id><id>S102</id><id>S102</id><id>S102</id><id>S102</id><id>S101</id></object>
+</annotation>

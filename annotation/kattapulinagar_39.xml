@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_39.jpg</filename>
+	<path>D:\chennai\images\kattapulinagar_39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>752</ymin>
+			<xmax>950</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	<id>S105</id><id>S105</id><id>S105</id><id>S105</id><id>S105</id><id>S104</id></object>
+	<object>
+		<name>multi axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1157</xmin>
+			<ymin>562</ymin>
+			<xmax>1259</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	<id>S106</id><id>S106</id><id>S106</id><id>S106</id><id>S106</id><id>S105</id></object>
+</annotation>

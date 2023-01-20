@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_76.jpg</filename>
+	<path>C:\Users\HP\Desktop\chennai\images\kattapulinagar_76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck_4Axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>643</ymin>
+			<xmax>1916</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	<id>S250</id><id>S250</id><id>S250</id><id>S250</id><id>S249</id></object>
+</annotation>

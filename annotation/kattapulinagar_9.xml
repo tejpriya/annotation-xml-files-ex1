@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kattapulinagar_9.jpg</filename>
+	<path>D:\chennai\images\kattapulinagar_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymin>777</ymin>
+			<xmax>1878</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	<id>S259</id><id>S259</id><id>S259</id><id>S259</id><id>S259</id><id>S258</id></object>
+	<object>
+		<name>Two Wheeler</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1287</xmin>
+			<ymin>719</ymin>
+			<xmax>1348</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	<id>S260</id><id>S260</id><id>S260</id><id>S260</id><id>S260</id><id>S259</id></object>
+	<object>
+		<name>Truck_3Axle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>566</ymin>
+			<xmax>1155</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	<id>S261</id><id>S261</id><id>S261</id><id>S261</id><id>S261</id><id>S260</id></object>
+</annotation>
